@@ -1,0 +1,104 @@
+{
+  "apartments": [
+    {
+      "id": "1",
+      "description": "Upgraded Kitchen And Huge Master Bedroom With One Bedroom",
+      "city": "coimbatore",
+      "state": "Tamil Nadu",
+      "neighborhood": "Walayar",
+      "price": "RS.1,165",
+      "bedrooms": "1",
+      "address": "108 Avenue, coimbatore, 641104"
+    },
+    {
+      "id": "2",
+      "description": "Impressive Bushwick 3BR HUGE rooms Halsey J / Wilson L ? No Fee",
+      "city": "mettupalayam",
+      "state": "tamil Nadu",
+      "neighborhood": "ooty",
+      "price": "RS.2,499",
+      "bedrooms": "3",
+      "address": "Tachers Colony, mettupalayam, 641104"
+    },
+    {
+      "id": "3",
+      "description": "No Fee 1 Bedroom",
+      "city": "annur",
+      "state": "Tamil Nadu",
+      "neighborhood": "Tripur",
+      "price": "$1,750",
+      "bedrooms": "1",
+      "address": "111A kannan Street, Annur, 641021"
+    },
+    {
+      "id": "4",
+      "description": "BROWNSTOWN // BRAND NEW RENOVATED DUPLEX",
+      "city": "coimbatore",
+      "state": "Tamil Nadu",
+      "neighborhood": "Crown Heights",
+      "price": "$3,800",
+      "bedrooms": "4",
+      "address": "1288 Dean Street, coimbatore, 641102"
+    },
+    {
+      "id": "5",
+      "description": "Very Nice Two Bedroom Apt",
+      "city": "sulur",
+      "state": "Tamil Nadu",
+      "neighborhood": "RVS College of arts and science",
+      "price": "$1,550",
+      "bedrooms": "2",
+      "address": "79 Lafayette Avenue, coimbatore, 641102"
+    },
+    {
+      "id": "6",
+      "description": "3 Bedroom Apartment (SECTION 8 OK)",
+      "city": "chennai",
+      "state": "Tamil Nadu",
+      "neighborhood": "poonamalli",
+      "price": "$1,950",
+      "bedrooms": "3",
+      "address": "203rd Street pammal, chennai, 600028"
+    },
+    {
+      "id": "7",
+      "description": "One BR beautiful apartment in convenient location",
+      "city": "coimbatore",
+      "state": "Tamil Nadu",
+      "neighborhood": "monkey bakery",
+      "price": "$805",
+      "bedrooms": "1",
+      "address": "2/311b,teachers Colony,karamadai,coimbatore, 641104"
+    },
+    {
+      "id": "8",
+      "description": "Brand new 1 bedroom apartment with all utilities included",
+      "city": "madurai",
+      "state": "Tamil Nadu",
+      "neighborhood": "simmakal",
+      "price": "$1,100",
+      "bedrooms": "1",
+      "address": "Meenakshi amman temple, maduurai"
+    },
+    {
+      "id": "9",
+      "description": "Beautiful one bed. Near Montefiore in Morris Park $1350 / 1br",
+      "city": "Queens",
+      "state": "New York",
+      "neighborhood": "Morris Park",
+      "price": "$1,350",
+      "bedrooms": "1",
+      "address": "961 Lurting Avenue, Bronx, NY 10461"
+    },
+    {
+      "id": "10",
+      "description": "Shiny 1 Bdrooms separate Hot Kitch/Dish Washer Hardwood Flr",
+      "city": "Manhattan",
+      "state": "New York",
+      "neighborhood": "Midtown West",
+      "price": "$3,000",
+      "bedrooms": "1",
+      "address": "326 W. 51st Street, Manhattan, NY 10019"
+    }
+  ]
+}
